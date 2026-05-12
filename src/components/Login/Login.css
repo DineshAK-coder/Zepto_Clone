@@ -1,0 +1,14 @@
+.login-container{
+  text-align : center;
+}
+
+.login-main-heading{
+  color:purple;
+  font-size: 30;
+}
+
+.login-button{
+  color:white;
+  background-color:purple;
+  border-radius:12px;
+}
